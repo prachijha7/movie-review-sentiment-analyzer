@@ -6,6 +6,10 @@ A machine learning project that classifies movie reviews as **positive or negati
 
 This project explores how machine learning can identify sentiment in movie reviews using the IMDb dataset. The data was explored and visualized, duplicate reviews were removed, and text was converted into numerical features using TF-IDF. Multiple classification models were trained and compared, and the best-performing model was integrated into a Streamlit application for interactive predictions.
 
+## 🚀 Live Demo
+
+Try the deployed application here: [Movie Review Sentiment Analyzer](https://movie-review-sentiment-analyzer-1.streamlit.app)
+
 ## 📊 Dataset
 
 - **Dataset:** IMDb Movie Reviews
