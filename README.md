@@ -14,6 +14,10 @@ This project explores how machine learning can identify sentiment in movie revie
 - **Target variable:** Sentiment
 - **Classes:** Positive and Negative
 
+The dataset contains movie reviews labeled as positive or negative. Duplicate reviews were removed before model training.
+
+**Dataset source:** [IMDb Movie Reviews Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+
 ## 🔍 Workflow
 
 1. **Data Loading and Exploration** — Loaded the dataset and examined its structure, columns, and data types.
